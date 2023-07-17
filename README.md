@@ -43,7 +43,6 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
     - **ALTRIMENTI**
       -segna elemento come "troppo costoso"
 
-- **ALTRIMENTI**
   - vai alla cassa
   - saluta il cassiera
   - sorridi
